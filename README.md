@@ -1,5 +1,5 @@
 # [Deep Learning Specialization : Coursera + DeepLearning.AI](https://www.coursera.org/specializations/deep-learning)
-## Course 2 : [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects/home/info)
+## Course 3 : [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects/home/info)
 This repository contains all the lecture notes of the course : Structuring Machine Learning Projects.
 
 <hr/>
